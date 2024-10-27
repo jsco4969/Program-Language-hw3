@@ -55,13 +55,5 @@ NonFiction does not contain extra methods, functions, or fields.
 
 
 
-
-
-## Documentation
-
-
-
-
-
 ## How to run code
 Run the code in the Main
